@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Menu Makanan</string>
+
+    <string-array name="menu_makanan">
+        <item>Nasi Goreng</item>
+        <item>Bakso Komplit</item>
+        <item>Nasi Ayam Maknyus</item>
+        <item>Teh</item>
+        <item>Jeruk</item>
+        <item>Air Mineral</item>
+    </string-array>
+
+    <string-array name="hargaa">
+        <item>Rp11.000,00</item>
+        <item>Rp12.000,00</item>
+        <item>Rp12.500,00</item>
+        <item>Rp3.000,00</item>
+        <item>Rp4.000,00</item>
+        <item>Rp2.500,00</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Nasi Goreng yang dibuat dengan cita rasa khas nusantara</item>
+        <item>Bakso Komplit dengan mie dan sayuran</item>
+        <item>Nasi Ayam Maknyus ditaburi dengan kremesan</item>
+        <item>Bisa dingin atau hangat, bisa manis bisa tawar, bahkan Es Teh Hangat pun ada</item>
+        <item>Bisa dingin atau hangat, manis jeruk tiada tara</item>
+        <item>Hanya tersedia Aqua, jangan minta merk lain</item>
+    </string-array>
+</resources>
